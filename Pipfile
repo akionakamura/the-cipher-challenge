@@ -7,6 +7,8 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+pandas = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.5"
